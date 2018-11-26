@@ -1,6 +1,8 @@
 # ITCS 4102 Python Project
 **Developers:** Fatih Agirtmis, Maria Handschu, and Ryan Amarsingh
 
+**Paper:** Folder contains final paper for our project
+
 **Term Project Deliverable 1:** Folder contains the requirments due to for the first deliverable. 
 
 1) `Input_Output_In_Python`
